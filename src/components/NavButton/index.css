@@ -1,0 +1,14 @@
+.navButton {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 35px;
+  background-color: #02d6b3;
+  color: #ffffff;
+  cursor: pointer;
+  outline: invert;
+}

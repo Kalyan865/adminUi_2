@@ -1,0 +1,89 @@
+.personDetails {
+  display: flex;
+  align-items: center;
+  border-style: solid;
+  background-color: #f7fcfb;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #bbc9c7;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 3px;
+  height: 7vh;
+  margin-bottom: 2px;
+}
+
+.personDetails2 {
+  display: flex;
+  border-style: solid;
+  background-color: white;
+  border-radius: 10px;
+  border-width: 1px;
+  border-left-width: 3px;
+  border-color: #02a685;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 1px;
+  width: 95%;
+  cursor: pointer;
+}
+
+.changeBgfalse {
+  background-color: #ffffff;
+  border-color: #02a685;
+}
+.changeBgtrue {
+  background-color: #ccc4c5;
+  border-color: #1a1818;
+  color: #0e0d0d;
+}
+
+.personId {
+  width: 5%;
+  text-align: center;
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
+
+.personName {
+  width: 40%;
+  text-align: center;
+  margin-top: 11px;
+  margin-bottom: 11px;
+  border-style: solid;
+  border-width: 0px;
+  outline: none;
+  background-color: transparent;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.personEmail {
+  width: 30%;
+  text-align: center;
+  margin-top: 11px;
+  margin-bottom: 11px;
+  border-style: solid;
+  border-width: 0px;
+  outline: none;
+  background-color: transparent;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.personRole {
+  width: 20%;
+  text-align: center;
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
+
+.deleteBtn {
+  width: 5%;
+  text-align: center;
+  color: #fa1111;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
